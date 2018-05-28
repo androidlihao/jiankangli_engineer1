@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/px_132" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/app_name"
+            android:textColor="#3597d6"
+            android:textSize="@dimen/px_57" />
+
+        <RelativeLayout
+            android:layout_width="@dimen/px_90"
+            android:layout_height="@dimen/px_90"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/px_30" >
+
+            <com.defineapp.jiankangli_engineer.view.RoundImageView
+                android:id="@+id/round_image_view"
+                android:layout_width="@dimen/px_90"
+                android:layout_height="@dimen/px_90"
+                android:background="@drawable/home_touxiang" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_centerVertical="true"
+                android:background="@drawable/person_round" />
+
+            <ImageView
+                android:id="@+id/iv_state"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/online" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/px_2"
+            android:layout_alignParentBottom="true"
+            android:background="#f1f1f1" />
+    </RelativeLayout>
+
+    <com.handmark.pulltorefresh.library.PullToRefreshScrollView
+        xmlns:ptr="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/pull_refresh_scrollview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/px_640" >
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/px_640" >
+
+                    <android.support.v4.view.ViewPager
+                        android:id="@+id/view_pager"
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/px_640" >
+                    </android.support.v4.view.ViewPager>
+
+                    <RadioGroup
+                        android:id="@+id/ll_points"
+                        android:layout_width="wrap_content"
+                        android:layout_height="@dimen/px_42"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginBottom="@dimen/px_30"
+                        android:orientation="horizontal" >
+                    </RadioGroup>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/rl_msg"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/px_72"
+                    android:layout_alignParentTop="true"
+                    android:background="#eaf7ff"
+                    android:gravity="center_vertical"
+                    android:visibility="invisible" >
+
+                    <ImageView
+                        android:id="@+id/iv_delete"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="@dimen/px_30"
+                        android:background="@drawable/delete_en" />
+
+                    <TextView
+                        android:id="@+id/tv_scroll"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/px_72"
+                        android:layout_marginRight="@dimen/px_10"
+                        android:layout_toLeftOf="@id/iv_delete"
+                        android:ellipsize="marquee"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+                        android:gravity="center_vertical"
+                        android:marqueeRepeatLimit="marquee_forever"
+                        android:singleLine="true"
+                        android:textColor="#ff2222"
+                        android:textSize="@dimen/px_45" />
+                </RelativeLayout>
+            </FrameLayout>
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/px_30"
+                android:gravity="center_horizontal"
+                android:text="@string/follow_order"
+                android:textColor="#333339"
+                android:textSize="@dimen/px_51" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/px_90"
+                android:layout_marginRight="@dimen/px_90"
+                android:layout_marginTop="@dimen/px_20"
+                android:background="@drawable/home_background_arrow" />
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/px_90"
+                android:layout_marginRight="@dimen/px_90"
+                android:layout_marginTop="@dimen/px_70" >
+
+                <com.defineapp.jiankangli_engineer.view.MyFixView
+                    android:id="@+id/wait_fix"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <com.defineapp.jiankangli_engineer.view.MyFixView
+                    android:id="@+id/fixing"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true" />
+
+                <View
+                    android:id="@+id/view1"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/px_4"
+                    android:layout_below="@id/fixing"
+                    android:layout_marginTop="@dimen/px_70"
+                    android:background="#f1f1f1" />
+
+                <com.defineapp.jiankangli_engineer.view.MyFixView
+                    android:id="@+id/done_fix"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/view1"
+                    android:layout_marginTop="@dimen/px_70" />
+
+                <com.defineapp.jiankangli_engineer.view.MyFixView
+                    android:id="@+id/parts"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@id/view1"
+                    android:layout_marginTop="@dimen/px_70" />
+
+                <View
+                    android:layout_width="@dimen/px_4"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@id/parts"
+                    android:layout_alignTop="@id/wait_fix"
+                    android:layout_centerHorizontal="true"
+                    android:background="#f1f1f1" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/px_30"
+                android:layout_marginTop="@dimen/px_50"
+                android:background="#11000000" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/px_30"
+                android:gravity="center_horizontal"
+                android:text="@string/up_fix"
+                android:textColor="#333339"
+                android:textSize="@dimen/px_51" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/px_90"
+                android:layout_marginRight="@dimen/px_90"
+                android:layout_marginTop="@dimen/px_20"
+                android:background="@drawable/home_background_arrow" />
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/px_90"
+                android:layout_marginRight="@dimen/px_90"
+                android:layout_marginTop="@dimen/px_70" >
+
+                <com.defineapp.jiankangli_engineer.view.MyFixView
+                    android:id="@+id/scan_goods"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <com.defineapp.jiankangli_engineer.view.MyFixView
+                    android:id="@+id/write"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true" />
+
+                <View
+                    android:layout_width="@dimen/px_4"
+                    android:layout_height="match_parent"
+                    android:layout_alignBottom="@id/write"
+                    android:layout_alignTop="@id/write"
+                    android:layout_centerHorizontal="true"
+                    android:background="#f1f1f1" />
+            </RelativeLayout>
+        </LinearLayout>
+    </com.handmark.pulltorefresh.library.PullToRefreshScrollView>
+
+</LinearLayout>

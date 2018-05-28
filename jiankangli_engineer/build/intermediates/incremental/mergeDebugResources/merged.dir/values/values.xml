@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="btn_soft_hard_color">#06c18e</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="province_line_border">#D0D0D0</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode">
+            <flag name="disabled" value="0x0"/>
+            <flag name="pullFromStart" value="0x1"/>
+            <flag name="pullFromEnd" value="0x2"/>
+            <flag name="both" value="0x3"/>
+            <flag name="manualOnly" value="0x4"/>
+
+            
+            <flag name="pullDownFromTop" value="0x1"/>
+            <flag name="pullUpFromBottom" value="0x2"/>
+        </attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle">
+            <flag name="rotate" value="0x0"/>
+            <flag name="flip" value="0x1"/>
+        </attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable>
+    <declare-styleable name="RoundImageView"><attr format="dimension" name="border_thickness"/><attr format="color" name="border_inside_color"/><attr format="color" name="border_outside_color"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <item name="about_version_code" type="id">false</item>
+    <item name="auto_focus" type="id"/>
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <item name="encode_failed" type="id"/>
+    <item name="encode_succeeded" type="id"/>
+    <item name="gridview" type="id"/>
+    <item name="launch_product_query" type="id"/>
+    <item name="quit" type="id"/>
+    <item name="restart_preview" type="id"/>
+    <item name="return_scan_result" type="id"/>
+    <item name="scrollview" type="id"/>
+    <item name="search_book_contents_failed" type="id"/>
+    <item name="search_book_contents_succeeded" type="id"/>
+    <item name="split" type="id">false</item>
+    <item name="webview" type="id"/>
+    <string name="about_us">关于我们</string>
+    <string name="about_us_content">建立presenter（主导器，通过iView和iModel接口操作model和view），activity可以把所有逻辑给presenter处理，这样java逻辑就从手机的activity中分离出来。所谓的mvp，即是（model-处理业务逻辑（主要是数据读写，或者与后台通信（其实也是读写数据）），view-处理ui控件，presenter-主导器，操作model和view）</string>
+    <string name="act_reg">注册</string>
+    <string name="all_order">全部工单</string>
+    <string name="app_name">医修+</string>
+    <string name="bad_detils">该人员很懒，没有留下任何描述</string>
+    <string name="cancle">取消</string>
+    <string name="common_parts">通用核磁共振扫描头</string>
+    <string name="customer_name">客户名称</string>
+    <string name="customer_name_content">李建勇</string>
+    <string name="done_fix">维修完成</string>
+    <string name="faults_submit">故障提交</string>
+    <string name="feed_back">意见反馈</string>
+    <string name="feed_back_hint">请输入反馈内容，不超过500字</string>
+    <string name="fix_record">维修记录</string>
+    <string name="fixing">正在维修</string>
+    <string name="follow_order">维修工单</string>
+    <string name="forget_psw">忘记密码</string>
+    <string name="forget_psw_activity">忘记密码</string>
+    <string name="forget_show">若无法登录请点击</string>
+    <string name="hint_bad">请对故障进行描述，以便工程师做准备工作</string>
+    <string name="hint_msg">请输入留言内容</string>
+    <string name="hos_detils">北京协和医院</string>
+    <string name="hos_name">医院名称</string>
+    <string name="hos_name_detils">北京协和医院</string>
+    <string name="keep_time">保  修  时  间:</string>
+    <string name="login">登录</string>
+    <string name="login_out">退出登录</string>
+    <string name="look_parts">配件查询</string>
+    <string name="me_detils">西门子核磁共振</string>
+    <string name="me_name">设备名称</string>
+    <string name="message">消息中心</string>
+    <string name="mine_msg">我的留言</string>
+    <string name="msg">留言</string>
+    <string name="msg_activity">留言互动</string>
+    <string name="msg_detils">消息详情</string>
+    <string name="msg_list">消息</string>
+    <string name="my_mssage">我的留言</string>
+    <string name="name">李建勇</string>
+    <string name="next_step">下一步</string>
+    <string name="one">1</string>
+    <string name="online_chat">在线互动</string>
+    <string name="order_detils">工单详情</string>
+    <string name="order_list">工单列表</string>
+    <string name="order_no">20151229001</string>
+    <string name="order_no_hint">工单号:</string>
+    <string name="order_num">工   单   号</string>
+    <string name="order_num_detils">201512161234</string>
+    <string name="parts_detils">配件详情</string>
+    <string name="person_center">个人中心</string>
+    <string name="person_phone">15027733912</string>
+    <string name="phone_com">联系客服</string>
+    <string name="phone_hint">请输入11位手机号</string>
+    <string name="phone_things">电话沟通</string>
+    <string name="photo">拍照上传</string>
+    <string name="photos">手机图库</string>
+    <string name="psw_hint">请输入密码</string>
+    <string name="pull_to_refresh_footer_pull_label">上拉加载更多</string>
+    <string name="pull_to_refresh_footer_refreshing_label">加载中\u2026</string>
+    <string name="pull_to_refresh_footer_release_label">松开后加载</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
+    <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
+    <string name="pull_to_refresh_pull_label">下拉刷新</string>
+    <string name="pull_to_refresh_refreshing_label">刷新\u2026</string>
+    <string name="pull_to_refresh_release_label">松开后刷新</string>
+    <string name="reg_agreement">注册协议</string>
+    <string name="reg_bt_submit">同意遵守用户协议并注册</string>
+    <string name="reg_et_hos">请输入医院名称</string>
+    <string name="reg_et_name">请输入用户名</string>
+    <string name="reg_et_new_psw">请输入新密码</string>
+    <string name="reg_et_num">请输入验证码</string>
+    <string name="reg_et_phone">请输入11位手机号</string>
+    <string name="reg_et_psw">请输入密码</string>
+    <string name="reg_et_psw_more">请再次输入密码</string>
+    <string name="reg_et_psw_new">请确认新密码</string>
+    <string name="reg_get_num">获取验证码</string>
+    <string name="reg_get_num_later">重获验证码</string>
+    <string name="reg_get_num_later_end">s</string>
+    <string name="reg_hos">医院</string>
+    <string name="reg_num">验证码</string>
+    <string name="reg_phone">手机号</string>
+    <string name="reg_psw">密码</string>
+    <string name="reg_psw_more">确认密码</string>
+    <string name="reg_user_arg">点击查看</string>
+    <string name="reg_user_arg_end">《用户协议》</string>
+    <string name="reg_user_name">用户名</string>
+    <string name="repair_person">维修工程师:</string>
+    <string name="room">心外科/B超</string>
+    <string name="save">保存</string>
+    <string name="scan_error">如扫描失败请尝试以下方式查询</string>
+    <string name="scan_things">扫描信息</string>
+    <string name="set_data">修改资料</string>
+    <string name="set_new_psw">重置密码</string>
+    <string name="set_phone">修改手机号</string>
+    <string name="set_psw">修改密码</string>
+    <string name="state_parts">正在出库</string>
+    <string name="submit">提交</string>
+    <string name="submit_falut">故障提交</string>
+    <string name="text_size">0/500</string>
+    <string name="time">2015年12月29日14:30:13</string>
+    <string name="tv_phone">手机号</string>
+    <string name="tv_psw">密码</string>
+    <string name="unheath_talk_left">你来的时候记得带xx的显示器，这里的显示器坏了不能正常显示了</string>
+    <string name="unheath_talk_right">好滴，知道了。</string>
+    <string name="up_fix">工单查询</string>
+    <string name="user_name">用   户   名</string>
+    <string name="user_reg">用户注册</string>
+    <string name="wait">正在努力加载，请稍等...</string>
+    <string name="wait_fix">等待维修</string>
+    <string name="want_parts">申  请  配  件:</string>
+    <string name="want_parts_activity">申请配件</string>
+    <string name="write_hint">请输入数字序列</string>
+    <string name="write_msg">留言输入</string>
+    <string name="write_things">手动录入</string>
+    <style mce_bogus="1" name="AnimationActivity" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/window_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/window_out</item>
+        <item name="android:activityCloseEnterAnimation">@anim/window_in2</item>
+        <item name="android:activityCloseExitAnimation">@anim/window_out2</item>
+    </style>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="LeadFont" parent="@android:style/Widget.TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:textColor">#333333</item>
+        <item name="android:background">#ffffff</item>
+        <item name="android:textSize">@dimen/px_51</item>
+        <item name="android:button">@null</item>
+        <item name="android:checked">false</item>
+    </style>
+    <style name="MyDialogStyle">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="OrderFontHint" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">#999999</item>
+        <item name="android:textSize">@dimen/px_48</item>
+    </style>
+    <style mce_bogus="1" name="ThemeActivity">
+        <item name="android:windowAnimationStyle">@style/AnimationActivity</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="dialogActivity" parent="@android:style/Theme.DeviceDefault.Dialog.Alert" ns1:targetApi="lollipop_mr1">
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+</resources>

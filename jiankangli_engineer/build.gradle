@@ -1,0 +1,33 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion '26.0.2'
+
+    defaultConfig {
+        applicationId "com.defineapp.jiankangli_engineer"
+        minSdkVersion 14
+        targetSdkVersion 21
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    lintOptions {
+        disable 'MissingTranslation'
+    }
+}
+
+dependencies {
+    compile project(':library')
+    compile project(':photo_view_library')
+    compile 'com.android.support:support-v4:22.2.1'
+    compile 'com.google.code.gson:gson:2.3.1'
+    compile files('libs/android-async-http-1.4.6.jar')
+    compile files('libs/jpush-android-2.1.0.jar')
+    compile files('libs/universal-image-loader-1.9.3-SNAPSHOT.jar')
+    compile files('libs/zxing.jar')
+}

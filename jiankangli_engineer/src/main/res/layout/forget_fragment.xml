@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/px_132"
+        android:background="#3597d6" >
+
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:paddingBottom="@dimen/px_30"
+            android:paddingLeft="@dimen/px_30"
+            android:paddingRight="@dimen/px_60"
+            android:paddingTop="@dimen/px_30"
+            android:src="@drawable/back_arrow" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/forget_psw_activity"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/px_57" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/px_100"
+        android:layout_marginRight="@dimen/px_100"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/px_38"
+            android:text="@string/reg_phone"
+            android:textColor="#999999"
+            android:textSize="@dimen/px_36" />
+
+        <EditText
+            android:id="@+id/for_et_ph"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/px_30"
+            android:background="@null"
+            android:hint="@string/reg_et_phone"
+            android:inputType="phone"
+            android:textColor="#333333"
+            android:textColorHint="#d5d5d5"
+            android:textCursorDrawable="@null"
+            android:textSize="@dimen/px_48" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/px_1"
+            android:layout_marginTop="@dimen/px_30"
+            android:background="#66999999" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/px_38"
+            android:text="@string/reg_num"
+            android:textColor="#999999"
+            android:textSize="@dimen/px_36" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/px_30" >
+
+            <EditText
+                android:id="@+id/for_et_num"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@null"
+                android:hint="@string/reg_et_num"
+                android:inputType="number"
+                android:textColor="#333333"
+                android:textColorHint="#d5d5d5"
+                android:textCursorDrawable="@null"
+                android:textSize="@dimen/px_48" />
+
+            <TextView
+                android:id="@+id/for_num"
+                android:layout_width="@dimen/px_280"
+                android:layout_height="@dimen/px_80"
+                android:background="@drawable/background_button_getnum"
+                android:gravity="center"
+                android:text="@string/reg_get_num"
+                android:textColor="#ffffff"
+                android:textSize="@dimen/px_38" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/px_1"
+            android:layout_marginTop="@dimen/px_12"
+            android:background="#66999999" />
+
+        <TextView
+            android:id="@+id/tv_next"
+            android:layout_width="@dimen/px_740"
+            android:layout_height="@dimen/px_120"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/px_180"
+            android:background="@drawable/submit_seleter"
+            android:gravity="center"
+            android:text="@string/next_step"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/px_48" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f1f1f1"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/px_132"
+        android:background="#3597d6" >
+
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:src="@drawable/back_arrow"
+            android:paddingBottom="@dimen/px_30"
+            android:paddingLeft="@dimen/px_30"
+            android:paddingRight="@dimen/px_60"
+            android:paddingTop="@dimen/px_30" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/order_list"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/px_57" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/px_40"
+        android:background="#f1f1f1" />
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <com.handmark.pulltorefresh.library.PullToRefreshListView
+            android:id="@+id/order_list"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:divider="@null" >
+        </com.handmark.pulltorefresh.library.PullToRefreshListView>
+
+        <RelativeLayout
+            android:id="@+id/rl_wait"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#20000000"
+            android:clickable="true"
+            android:visibility="visible" >
+
+            <ImageView
+                android:id="@+id/progressBar1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/loading" />
+        </RelativeLayout>
+    </FrameLayout>
+
+</LinearLayout>

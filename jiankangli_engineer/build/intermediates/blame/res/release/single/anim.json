@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\anim\\loading.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\anim\\loading.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\library\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\anim\\window_in2.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\anim\\window_in2.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_to_top.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\library\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\anim\\window_out2.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\anim\\window_out2.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\anim\\window_in.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\anim\\window_in.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\anim\\window_out.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\anim\\window_out.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_from_top.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\library\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\library\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_bottom.xml"
+    }
+]

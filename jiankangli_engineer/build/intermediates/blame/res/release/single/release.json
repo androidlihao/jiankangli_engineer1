@@ -1,0 +1,1134 @@
+[
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_scroll_pic2.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\scroll_pic2.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_list_message_icon.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\list_message_icon.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_gerenzhongxin_touxiang.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\gerenzhongxin_touxiang.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_pulltorefresh_arrow_up.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\ic_pulltorefresh_arrow_up.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_my_fix_view.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\my_fix_view.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_list_password_icon.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\list_password_icon.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_home_touxiang.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\home_touxiang.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_online_seleter.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\online_seleter.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_background_button_normol2.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\background_button_normol2.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_shoudongluru_phone.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\shoudongluru_phone.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_home_background_arrow.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\home_background_arrow.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\anim_slide_in_from_bottom.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\library\\build\\intermediates\\bundles\\release\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_wheel_val.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_expand_list_item2.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\expand_list_item2.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_person_round.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\person_round.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_background_cross.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\background_cross.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_background_button_white.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\background_button_white.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_default_ptr_rotate.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\library\\build\\intermediates\\bundles\\release\\res\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_list_phone_icon.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\list_phone_icon.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_no_picture.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\no_picture.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_backgroup_cb_press.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\backgroup_cb_press.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\anim_window_in2.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\anim\\window_in2.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_shoudongluru_phone.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\shoudongluru_phone.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_left.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\left.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_want_parts_activity.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\want_parts_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_delete_icon.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\delete_icon.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_scroll_pic2.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\scroll_pic2.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_head_stroke.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\head_stroke.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_home_online_press.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\home_online_press.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_scroll_pic2.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\scroll_pic2.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_us_background.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\us_background.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_activity_person.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\activity_person.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_indicator_arrow.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\library\\build\\intermediates\\bundles\\release\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\anim_loading.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\anim\\loading.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_gerenzhongxin_touxiang.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\gerenzhongxin_touxiang.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_background_button.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\background_button.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_list_phone_icon.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\list_phone_icon.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_bad_demo.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\bad_demo.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_online.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\online.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_home_touxiang.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\home_touxiang.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_head_stroke.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\head_stroke.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_home_scan.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\home_scan.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_list_next.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\list_next.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_home_scan.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\home_scan.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_list_password_icon.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\list_password_icon.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_fix_record_item.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\fix_record_item.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_round2.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\round2.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_home_repair.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\home_repair.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_indicator_bg_top.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\library\\build\\intermediates\\bundles\\release\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_joblist_awm1.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\joblist_awm1.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_left_press.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\left_press.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_scroll_pic3.jpg.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\scroll_pic3.jpg"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_scroll_pic1.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\scroll_pic1.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_scroll_pic1.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\scroll_pic1.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_roll_show.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\roll_show.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_scroll_pic1.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\scroll_pic1.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_msg_detils_activity.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\msg_detils_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_joblist_repair1.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\joblist_repair1.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_parts_item.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\parts_item.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_forget_fragment.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\forget_fragment.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_dialog_ok.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\dialog_ok.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_joblist_awm1.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\joblist_awm1.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_list_us_icon.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\list_us_icon.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_pop_bg_.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\pop_bg_.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_joblist_awm1.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\joblist_awm1.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\anim_window_out.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\anim\\window_out.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_shoudongluru_phone.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\shoudongluru_phone.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_list_message2_icon.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\list_message2_icon.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_home_number.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\home_number.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_about_us_activity.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\about_us_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_qb_tenpay_loading_11.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\qb_tenpay_loading_11.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_login_logo.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\login_logo.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_home_manual.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\home_manual.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_saomiaoxinxi_manual.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\saomiaoxinxi_manual.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_back_arrow.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\back_arrow.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_qb_tenpay_loading_9.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\qb_tenpay_loading_9.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_us_background.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\us_background.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_phone_dialog.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\phone_dialog.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_list_next.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\list_next.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_order_detils_activity.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\order_detils_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_login_logo.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\login_logo.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_msg_online_activity.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\msg_online_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_gerenzhongxin_touxiang.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\gerenzhongxin_touxiang.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_iconfont_dianhua.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\iconfont_dianhua.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_main.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\photo_view_library\\build\\intermediates\\bundles\\release\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_list_feedback_icon.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\list_feedback_icon.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_joblist_finish1.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\joblist_finish1.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\anim_window_in.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\anim\\window_in.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\anim_window_out2.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\anim\\window_out2.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_write_msg_activity.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\write_msg_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_list_message_icon.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\list_message_icon.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_home_servant.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\home_servant.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_home_interaction.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\home_interaction.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_set_psw_fragment.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\set_psw_fragment.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_register_logo.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\register_logo.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_home_manual.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\home_manual.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_right_press.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\right_press.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_background_button_getnum.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\background_button_getnum.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_home_interaction.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\home_interaction.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_indicator_arrow.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\library\\build\\intermediates\\bundles\\release\\res\\drawable-mdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\raw_beep.ogg.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_qb_tenpay_loading_8.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\qb_tenpay_loading_8.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_new_psw_activity.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\new_psw_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_background_button_getnum_press.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\background_button_getnum_press.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_hone_shenqingpeijian.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\hone_shenqingpeijian.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_qb_tenpay_loading_1.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\qb_tenpay_loading_1.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_msg_item_right.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\msg_item_right.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_msg_list_activity.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\msg_list_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_joblist_finish.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\joblist_finish.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_home_awm.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\home_awm.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_list_message2_icon.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\list_message2_icon.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_joblist_finish1.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\joblist_finish1.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_login_img.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\login_img.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_mine_msg_item.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\mine_msg_item.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_shoudongluru_scan.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\shoudongluru_scan.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_home_manual.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\home_manual.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_qb_tenpay_loading_12.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\qb_tenpay_loading_12.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_home_awm.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\home_awm.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_home_number.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\home_number.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_list_feedback_icon.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\list_feedback_icon.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_parts_detils_activity.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\parts_detils_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_hone_shenqingpeijian.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\hone_shenqingpeijian.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_qb_tenpay_loading_7.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\qb_tenpay_loading_7.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_point_nomal.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\point_nomal.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_busy.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\busy.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_expand_list_item.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\expand_list_item.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_list_us_icon.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\list_us_icon.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_fix_recore_timelist_item.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\fix_recore_timelist_item.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_joblist_awm.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\joblist_awm.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_theme_left.9.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\theme_left.9.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_background_button_w.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\background_button_w.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_dialog_item.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\dialog_item.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_home_servant.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\home_servant.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_backgroup_cb_normal.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\backgroup_cb_normal.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_backgroup_cb_press.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\backgroup_cb_press.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_nav_radiogroup_item.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\nav_radiogroup_item.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_joblist_repair.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\joblist_repair.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_pull_to_refresh_header_vertical.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\library\\build\\intermediates\\bundles\\release\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_home_finish.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\home_finish.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_qb_tenpay_loading_2.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\qb_tenpay_loading_2.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_wheel_date_picker.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\wheel_date_picker.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_failure_mode_popwindow.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\failure_mode_popwindow.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_order_detils_list.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\order_detils_list.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_default_ptr_flip.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\library\\build\\intermediates\\bundles\\release\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_delete_en.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\delete_en.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_background_button_press.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\background_button_press.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_list_feedback_icon.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\list_feedback_icon.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_list_item.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_home_scan.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\home_scan.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_saomiaoxinxi_manual.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\saomiaoxinxi_manual.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_register_logo.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\register_logo.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_scroll_pic2.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\scroll_pic2.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_qb_tenpay_loading_5.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\qb_tenpay_loading_5.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_iconfont_dianhua.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\iconfont_dianhua.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_list_message2_icon.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\list_message2_icon.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_scan_qr_activity.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\scan_qr_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_list_next.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\list_next.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_delete.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_default_ptr_rotate.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\library\\build\\intermediates\\bundles\\release\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_joblist_repair.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\joblist_repair.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_home_phone_con.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\home_phone_con.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_joblist_finish1.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\joblist_finish1.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_backgroup_cb_normal.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\backgroup_cb_normal.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_pop_bag.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\pop_bag.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_home_phone.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\home_phone.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_home_interaction.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\home_interaction.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_home_repair.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\home_repair.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_fix_time_item.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\fix_time_item.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_qb_tenpay_loading_4.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\qb_tenpay_loading_4.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_shoudongluru_phone.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\shoudongluru_phone.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_pop_bg.9.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\pop_bg.9.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_list_next.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\list_next.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_submit_seleter.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\submit_seleter.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_roll_show.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\roll_show.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_joblist_repair.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\joblist_repair.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_list_phone_icon.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\list_phone_icon.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_ad_cycle_view.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\ad_cycle_view.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_joblist_finish1.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\joblist_finish1.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_joblist_repair1.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\joblist_repair1.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_home_phone_con_press.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\home_phone_con_press.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_list_msg_item.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\list_msg_item.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_qb_tenpay_loading_3.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\qb_tenpay_loading_3.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\anim_slide_out_to_bottom.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\library\\build\\intermediates\\bundles\\release\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_home_phone.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\home_phone.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_head_stroke.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\head_stroke.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_saomiaoxinxi_manual.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\saomiaoxinxi_manual.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_home_servant.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\home_servant.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_pop_background.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\pop_background.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_qb_tenpay_loading_6.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\qb_tenpay_loading_6.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_point_press.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\point_press.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_wheel_bg.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_home_repair.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\home_repair.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_home_background_arrow.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\home_background_arrow.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_home_repair.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\home_repair.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_joblist_finish.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\joblist_finish.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_new_fix_record_activity.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\new_fix_record_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_scroll_pic1.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\scroll_pic1.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_point_seleter.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\point_seleter.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_joblist_repair.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\joblist_repair.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_fix_record_activity.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\fix_record_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_background_button_press2.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\background_button_press2.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_feed_back_activity.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\feed_back_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_joblist_awm.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\joblist_awm.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_gerenzhongxin_touxiang.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\gerenzhongxin_touxiang.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_nav_return.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\nav_return.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_qb_tenpay_loading_10.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\qb_tenpay_loading_10.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_home_touxiang.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\home_touxiang.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_home_phone.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\home_phone.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_login_logo.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\login_logo.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_home_online.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\home_online.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_login_img.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\login_img.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_list_password_icon.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\list_password_icon.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_list_feedback_icon.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\list_feedback_icon.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_popup_window.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\popup_window.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_joblist_awm.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\joblist_awm.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_mine_msg_activity.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\mine_msg_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_home_finish.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\home_finish.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_home_background_arrow.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\home_background_arrow.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_hone_shenqingpeijian.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\hone_shenqingpeijian.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_wheel_date_picker2.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\wheel_date_picker2.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_list_phone_icon.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\list_phone_icon.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_home_servant.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\home_servant.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_list_message_icon.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\list_message_icon.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_iconfont_dianhua.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\iconfont_dianhua.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_roll_show.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\roll_show.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_home_scan.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\home_scan.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_look_parts_activity.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\look_parts_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_home_phone.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\home_phone.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_loading.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-ldpi\\loading.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_us_background.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\us_background.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_shoudongluru_scan.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\shoudongluru_scan.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_submit_seleter2.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\submit_seleter2.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_home_interaction.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\home_interaction.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_default_ptr_rotate.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\library\\build\\intermediates\\bundles\\release\\res\\drawable-mdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_activity_login.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_home_finish.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\home_finish.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_nav_return.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\nav_return.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_shoudongluru_scan.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\shoudongluru_scan.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_joblist_repair1.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\joblist_repair1.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_default_ptr_flip.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\library\\build\\intermediates\\bundles\\release\\res\\drawable-mdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_joblist_finish.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\joblist_finish.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_joblist_awm1.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\joblist_awm1.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_background_button_normol.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\background_button_normol.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_default_ptr_flip.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\library\\build\\intermediates\\bundles\\release\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_home_manual.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\home_manual.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_background_button_dialog.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\background_button_dialog.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_order_submit_list.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\order_submit_list.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_joblist_awm.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\joblist_awm.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_msg_item_left.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\msg_item_left.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_indicator_arrow.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\library\\build\\intermediates\\bundles\\release\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_tnav_slider.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\tnav_slider.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_list_us_icon.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\list_us_icon.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_home_awm.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\home_awm.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_home_awm.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\home_awm.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_list_us_icon.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\list_us_icon.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_login_img.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\login_img.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_shoudongluru_scan.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\shoudongluru_scan.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\raw_realm_properties.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\raw\\realm_properties"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_round.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\round.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_home_touxiang.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxxhdpi\\home_touxiang.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_nav_return.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\nav_return.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_pulltorefresh_arrow.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-hdpi\\ic_pulltorefresh_arrow.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_write_things_activity.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\write_things_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_pull_to_refresh_header_horizontal.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\library\\build\\intermediates\\bundles\\release\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_theme_right.9.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\theme_right.9.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_home_finish.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\home_finish.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_saomiaoxinxi_manual.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xxhdpi\\saomiaoxinxi_manual.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\anim_slide_in_from_top.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\library\\build\\intermediates\\bundles\\release\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_joblist_repair1.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\joblist_repair1.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\layout_activity_forget.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\activity_forget.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\anim_slide_out_to_top.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\library\\build\\intermediates\\bundles\\release\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_list_password_icon.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\list_password_icon.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_background_msg.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\background_msg.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_indicator_bg_bottom.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\library\\build\\intermediates\\bundles\\release\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_joblist_finish.png.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable-xhdpi\\joblist_finish.png"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\release\\drawable_backgroup_cb_seleter.xml.flat",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\drawable\\backgroup_cb_seleter.xml"
+    }
+]

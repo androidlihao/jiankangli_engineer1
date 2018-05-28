@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\msg_item_right.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\msg_item_right.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\parts_detils_activity.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\parts_detils_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\scan_qr_activity.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\scan_qr_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\my_fix_view.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\my_fix_view.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\fix_recore_timelist_item.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\fix_recore_timelist_item.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\new_psw_activity.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\new_psw_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_item.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\dialog_item.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\write_msg_activity.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\write_msg_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\want_parts_activity.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\want_parts_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\phone_dialog.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\phone_dialog.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\order_detils_list.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\order_detils_list.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\set_psw_fragment.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\set_psw_fragment.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\order_detils_activity.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\order_detils_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\msg_online_activity.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\msg_online_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_ok.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\dialog_ok.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\expand_list_item2.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\expand_list_item2.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\activity_person.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\activity_person.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\msg_item_left.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\msg_item_left.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\ad_cycle_view.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\ad_cycle_view.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\nav_radiogroup_item.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\nav_radiogroup_item.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\expand_list_item.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\expand_list_item.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\feed_back_activity.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\feed_back_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\new_fix_record_activity.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\new_fix_record_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\look_parts_activity.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\look_parts_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\fix_time_item.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\fix_time_item.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\order_submit_list.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\order_submit_list.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\mine_msg_activity.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\mine_msg_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\fix_record_activity.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\fix_record_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\photo_view_library\\build\\intermediates\\bundles\\default\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\fix_record_item.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\fix_record_item.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\wheel_date_picker2.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\wheel_date_picker2.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\failure_mode_popwindow.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\failure_mode_popwindow.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\mine_msg_item.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\mine_msg_item.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\write_things_activity.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\write_things_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\library\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forget.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\activity_forget.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\parts_item.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\parts_item.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\wheel_date_picker.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\wheel_date_picker.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\about_us_activity.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\about_us_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\pop_bag.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\pop_bag.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\msg_detils_activity.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\msg_detils_activity.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\forget_fragment.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\forget_fragment.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\popup_window.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\popup_window.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\library\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\list_msg_item.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\list_msg_item.xml"
+    },
+    {
+        "merged": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\res\\merged\\debug\\layout\\msg_list_activity.xml",
+        "source": "D:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\src\\main\\res\\layout\\msg_list_activity.xml"
+    }
+]

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="@dimen/px_30"
+    android:layout_marginRight="@dimen/px_30"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:background="#ffffff"
+        android:orientation="horizontal" >
+
+        <com.defineapp.jiankangli_engineer.view.RoundImageView
+            android:id="@+id/iv_other"
+            android:layout_width="@dimen/px_140"
+            android:layout_height="@dimen/px_140"
+            android:background="@drawable/gerenzhongxin_touxiang" />
+
+        <TextView
+            android:id="@+id/tv2_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/px_20"
+            android:background="@drawable/theme_left"
+            android:lineSpacingExtra="@dimen/px_20"
+            android:textColor="#333333"
+            android:gravity="center_vertical"
+            android:text="@string/unheath_talk_left"
+            android:textSize="@dimen/px_42" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv2_time"
+        android:layout_marginTop="@dimen/px_20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/px_210"
+        android:text="2015-11-5 13:45:36"
+        android:textColor="#999999"
+        android:textSize="@dimen/px_36" />
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/px_60" />
+
+</LinearLayout>

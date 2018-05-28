@@ -1,0 +1,4 @@
+#Tue Jan 23 19:07:53 CST 2018
+base.0=D\:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\transforms\\dex\\release\\0
+renamed.0=classes.dex
+file.0=D\:\\360se6\\jiankangli_engineer1\\jiankangli_engineer\\build\\intermediates\\transforms\\dex\\release\\0\\classes.dex

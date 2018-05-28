@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f1f1f1"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/px_132"
+        android:background="#3597d6" >
+
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:paddingBottom="@dimen/px_30"
+            android:paddingLeft="@dimen/px_30"
+            android:paddingRight="@dimen/px_60"
+            android:paddingTop="@dimen/px_30"
+            android:src="@drawable/back_arrow" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/order_list"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/px_57" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_top_lead"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/px_132"
+        android:layout_gravity="top"
+        android:background="#ffffff" >
+
+        <RadioGroup
+            android:id="@+id/rg_lead"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_centerVertical="true"
+            android:background="#ffffff"
+            android:orientation="horizontal" >
+
+            <View
+                android:layout_width="@dimen/px_30"
+                android:layout_height="1dp" />
+
+            <RadioButton
+                android:id="@+id/rb_all"
+                style="@style/LeadFont"
+                android:text="@string/all_order" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="1" />
+
+            <RadioButton
+                android:id="@+id/rb_wait_fix"
+                style="@style/LeadFont"
+                android:text="@string/wait_fix" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="1" />
+
+            <RadioButton
+                android:id="@+id/rb_fixing"
+                style="@style/LeadFont"
+                android:text="@string/fixing" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="1" />
+
+            <RadioButton
+                android:id="@+id/rb_done_fix"
+                style="@style/LeadFont"
+                android:text="@string/done_fix" />
+
+            <View
+                android:layout_width="@dimen/px_30"
+                android:layout_height="1dp" />
+        </RadioGroup>
+
+        <ImageView
+            android:id="@+id/iv_nav_indicator"
+            android:layout_width="@dimen/px_204"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="@dimen/px_30"
+            android:background="@drawable/tnav_slider"
+            android:scaleType="matrix" />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/px_40"
+                android:background="#f1f1f1" />
+
+            <com.handmark.pulltorefresh.library.PullToRefreshListView
+                android:id="@+id/order_list"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:divider="@null" >
+            </com.handmark.pulltorefresh.library.PullToRefreshListView>
+        </LinearLayout>
+        <RelativeLayout
+            android:id="@+id/rl_wait"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#20000000"
+            android:clickable="true"
+            android:visibility="invisible" >
+            <ImageView
+                android:id="@+id/progressBar1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/loading" />
+        </RelativeLayout>
+    </FrameLayout>
+</LinearLayout>

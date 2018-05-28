@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <FrameLayout
+        android:id="@+id/fl_iv_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/iv_fr"
+                android:layout_width="@dimen/px_200"
+                android:layout_height="@dimen/px_200"
+                android:background="@drawable/home_awm" />
+
+            <TextView
+                android:id="@+id/tv_fr"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+               android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/px_50"
+                android:layout_toRightOf="@id/iv_fr"
+                android:text="@string/fixing"
+                android:textColor="#777777"
+                android:textSize="@dimen/px_48" />
+
+            <TextView
+                android:id="@+id/my_tv_num"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/round"
+                android:layout_alignRight="@id/iv_fr"
+                android:gravity="center"
+                android:text="@string/one"
+                android:textColor="#ffffff"
+                android:textSize="@dimen/px_36"
+                android:visibility="invisible" />
+
+        </RelativeLayout>
+    </FrameLayout>
+
+</RelativeLayout>
